@@ -36,3 +36,6 @@ matplotlib for optional plotting
 The model successfully learned patterns from the training data and predicted the test data results effectively. I also compared the actual and predicted labels to validate the model's accuracy manually. The output clearly showed that the decision tree was able to classify the flower species based on input features.
 Conclusion
 This task gave me hands-on experience in implementing a supervised machine learning algorithm from scratch using Python. It helped me understand the core concepts of decision trees and how they are applied in solving classification problems. The project also improved my skills in data preprocessing, model building, and evaluation.
+#Output:
+![Image](https://github.com/user-attachments/assets/a51233b6-fc71-4d09-b9c5-aa7979370dc8)
+[Decision Tree.docx](https://github.com/user-attachments/files/21324679/Decision.Tree.docx)
