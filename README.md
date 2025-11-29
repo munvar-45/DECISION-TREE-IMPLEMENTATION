@@ -1,5 +1,5 @@
 #DESCRIPTION:
-This project was developed as part of CodTech Internship Task-1, where I implemented a basic Decision Tree Classifier using Python. The objective was to understand how decision trees work in machine learning and to practically apply them on a classification problem using a real-world dataset.
+where I implemented a basic Decision Tree Classifier using Python. The objective was to understand how decision trees work in machine learning and to practically apply them on a classification problem using a real-world dataset.
 This project was developed as part of CodTech Internship Task-1, where I implemented a basic Decision Tree Classifier using Python. The objective was to understand how decision trees work in machine learning and to practically apply them on a classification problem using a real-world dataset.The dataset used in this project is the Iris dataset, a popular dataset in machine learning. It contains various measurements of iris flowers, including sepal length, sepal width, petal length, and petal width. Based on these features, the goal is to predict the species of the flower.
 
 🔧 Tools and Libraries Used
